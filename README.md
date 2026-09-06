@@ -4,7 +4,7 @@
 
 ## 설치
 
-1. [Releases](https://github.com/jjpatch12/not-for-broadcast-korean-patch/releases)에서 `NotForBroadcast_한국어패치_v0.2.0-partial.zip`을 받습니다.
+1. [Releases](https://github.com/jjpatch12/not-for-broadcast-korean-patch/releases)에서 `NotForBroadcast_KoreanPatch_v0.2.0-partial.zip`을 받습니다.
 2. ZIP 안의 파일을 `NotForBroadcast.exe`가 있는 게임 설치 폴더에 풉니다.
 3. 게임을 종료한 상태에서 `한국어패치.bat`를 실행합니다.
 
