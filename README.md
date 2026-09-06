@@ -1,4 +1,5 @@
 # Not For Broadcast 한국어 패치
+<img width="387" height="516" alt="image" src="https://github.com/user-attachments/assets/69238ae7-8bf6-4475-a1b4-5e8413f21b1a" />
 
 `v0.9.0`은 **Not For Broadcast 빌드 `2024.10.04b.TL` 전용 비공식 한국어 패치 최종 배포본**입니다. 메뉴와 UI, 대사·자막, 확정된 정적 이미지 문구를 한국어로 바꿉니다. 이 버전을 끝으로 패치 제작을 종료합니다.
 
