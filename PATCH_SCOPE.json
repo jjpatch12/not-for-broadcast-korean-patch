@@ -1,15 +1,14 @@
 {
   "schema": "nfb.ko.patch_scope.v1",
-  "version": "0.2.0-partial",
+  "version": "0.9.0",
   "game_build": "2024.10.04b.TL",
-  "release_status": "partial",
+  "release_status": "final",
   "ui_translated_rows": 1623,
   "dialogue_master_rows": 62898,
   "dialogue_injected_rows": 62889,
   "dialogue_excluded_review_rows": 9,
   "changed_object_allowlist": 2495,
   "image_text_scope": {
-    "reviewed_registry_image_identities": 244,
     "previously_installed_image_identities": 108,
     "added_image_identities_in_this_build": 63,
     "installed_image_identities_total": 171,
@@ -18,10 +17,6 @@
     "new_non_hold_rows_applied": 268,
     "new_changed_translation_rows": 129,
     "new_intentional_original_preservation_rows": 139,
-    "context_hold_rows_carried_with_selected_images": 5,
-    "estimated_remaining_non_hold_image_identities": 65,
-    "remaining_accepted_non_hold_rows": 225,
-    "remaining_context_hold_rows": 23,
     "added_image_ids": [
       "NFBIMG_000319",
       "NFBIMG_000378",
@@ -93,15 +88,8 @@
     "메인 대사 데이터와 자막",
     "시작 콘텐츠 경고 문구",
     "검수·적용 완료된 정적 이미지 문구 171개 이미지 범위",
-    "v0.2.0에서 추가 적용한 정적 이미지 63개",
+    "v0.9.0에서 추가 적용한 정적 이미지 63개",
     "설치 전 빌드·원본 해시 검증, 자동 백업 및 제거 기능"
-  ],
-  "limitations": [
-    "이미지 한국어화는 부분 완료 상태이며, 등록 이미지 기준 약 65개 비보류 이미지가 남아 있습니다.",
-    "영상 프레임에 박힌 영문과 등록되지 않은 배경 문구는 전수 한국어화되지 않았습니다.",
-    "모든 분기와 DLC를 포함한 전체 플레이스루 검증은 완료하지 않았습니다.",
-    "게임 빌드 2024.10.04b.TL만 지원합니다.",
-    "별도 한글 폰트 패키지는 포함하지 않습니다."
   ],
   "validation": {
     "new_visual_images_staged": 63,
@@ -116,5 +104,10 @@
     "added_files": 1
   },
   "patch_payload_bytes": 206631478,
-  "manifest_sha256": "77aea3e138239dbc926f10737623cabb571d7a3535a86766afc792bf5456f08a"
+  "release_decision": "v0.9.0을 최종 정식 릴리스로 확정하며 추가 업데이트는 계획하지 않음",
+  "support_conditions": [
+    "게임 빌드 2024.10.04b.TL 전용",
+    "별도 한글 폰트 패키지 없음"
+  ],
+  "manifest_sha256": "fc39bfca7ab08b6dce55d8e24601f7ea0cddc325aecdecc81e7350f7d991985f"
 }
